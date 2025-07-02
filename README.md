@@ -1,16 +1,21 @@
-## Hi there 👋
+# Profile
+👋 Hi there! I'm Mason
+A newly grad wanting to make the world a better place through Software Engineering.
 
-<!--
-**MasonBrittain/MasonBrittain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⌛ Check out my portfolio:
+Portfolio: ___
 
-Here are some ideas to get you started:
+# 📫 How to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GitHub: You are here!
+
+LinkedIn: [Mason- Brittain](https://www.linkedin.com/in/mason-brittain-4a265a1aa/)
+
+E-mail: masonbrittain@gmail.com
+
+# 🔭 I’m currently working on:
+Machine learning applications
+Front end design
+
+# 🌱 I’m currently learning:
+Go-lang
