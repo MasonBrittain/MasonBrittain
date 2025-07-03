@@ -3,7 +3,7 @@
 A newly grad wanting to make the world a better place through Software Engineering.
 
 # ⌛ Check out my portfolio:
-Portfolio: ____
+Portfolio: [(https://resume-app-roan.vercel.app/)]
 
 # 📫 How to reach me:
 
@@ -15,6 +15,7 @@ E-mail: masonbrittain@gmail.com
 
 # 🔭 I’m currently working on:
 Machine learning applications
+
 Front end design
 
 # 🌱 I’m currently learning:
