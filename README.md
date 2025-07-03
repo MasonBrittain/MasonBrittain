@@ -3,7 +3,7 @@
 A newly grad wanting to make the world a better place through Software Engineering.
 
 # ⌛ Check out my portfolio:
-Portfolio: ___
+Portfolio: ____
 
 # 📫 How to reach me:
 
