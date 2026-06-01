@@ -1,6 +1,6 @@
 # Profile
 👋 Hi there! I'm Mason
-A Data Engineer trying to make the world a better place through Data and Software Development.
+a Data Engineer trying to make the world a better place through Data and Software Development.
 
 # ⌛ Check out my portfolio:
 Portfolio: [(https://resume-app-roan.vercel.app/)]
