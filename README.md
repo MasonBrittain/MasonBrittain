@@ -3,7 +3,7 @@
 a Data Engineer trying to make the world a better place through Data and Software Development.
 
 # ⌛ Check out my portfolio:
-Portfolio: [(https://resume-app-roan.vercel.app/)]
+Portfolio: [(https://resume-app-roan.vercel.app)]
 
 # 📫 How to reach me:
 
