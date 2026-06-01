@@ -1,6 +1,6 @@
 # Profile
 👋 Hi there! I'm Mason
-A newly grad wanting to make the world a better place through Software Engineering.
+A Data Engineer trying to make the world a better place through Data and Software Development.
 
 # ⌛ Check out my portfolio:
 Portfolio: [(https://resume-app-roan.vercel.app/)]
@@ -16,7 +16,6 @@ E-mail: masonbrittain@gmail.com
 # 🔭 I’m currently working on:
 Machine learning applications
 
-Front end design
-
 # 🌱 I’m currently learning:
-Go-lang
+Snowflake
+
