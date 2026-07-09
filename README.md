@@ -14,8 +14,8 @@ LinkedIn: [Mason- Brittain](https://www.linkedin.com/in/mason-brittain-4a265a1aa
 E-mail: masonbrittain@gmail.com
 
 # 🔭 I’m currently working on:
-Machine learning applications
+ETL Pipelines
 
 # 🌱 I’m currently learning:
-Snowflake
+Apache Airflow
 
