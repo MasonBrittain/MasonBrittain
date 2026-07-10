@@ -14,27 +14,31 @@ My work spans distributed systems, streaming pipelines, and backend infrastructu
 ---
 
 ## 🛠️ Tools & Technologies
-
-**Cloud & Platforms**
-`Azure` `Azure SQL` `Azure Functions` `Azure Blob Storage` `Azure CLI`
-
+ 
 **Languages**
-`Python` `SQL` `C#` `Java` `JavaScript` `DAX`
-
+`Python` `TypeScript` `JavaScript` `SQL` `C#` `Java` `C++` `HTML/CSS` `DAX`
+ 
+**Frameworks & Frontend**
+`React` `Next.js` `Node.js` `Tailwind CSS`
+ 
 **Data Engineering & Warehousing**
 `ETL/ELT` `SSIS` `SQLAlchemy` `pandas` `Data Warehousing` `Dimensional Modeling` `SQL Server`
-
+ 
+**Cloud & Backend**
+`Azure` `Azure SQL` `Azure Functions` `Azure Blob Storage` `Azure CLI` `REST APIs` `Supabase` `Drizzle ORM`
+ 
 **BI & Reporting**
 `Power BI` `Power Query` `Crystal Reports`
-
+ 
 **Engineering Practices**
-`Git` `GitHub Actions` `Docker` `pytest` `Jira` `CI/CD`
-
+`Git` `GitHub Actions` `Docker` `pytest` `Vercel` `Jira` `CI/CD`
+ 
 **ERP**
 `Viewpoint Vista`
-
+ 
 **Currently Learning**
 `Apache Airflow` `Distributed Systems` `Streaming Pipelines`
+ 
 
 ---
 
