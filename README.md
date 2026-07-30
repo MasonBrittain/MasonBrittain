@@ -48,7 +48,7 @@ My work spans distributed systems, streaming pipelines, and backend infrastructu
 -  I like to play sports and party games
 -  I play guitar in my downtime and I'm ussually keeping up with a few anime series
 -  I know an unreasonable number of shark facts — ask me one
--  I can solve a Rubik's cube in a reasonable amount of time
+-  I can solve a Rubik's cube faster than a merge conflict resolves itself
 
 ---
 
