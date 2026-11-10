@@ -1,43 +1,41 @@
 # Hi, I'm Mason 👋
 
-Data Engineer focused on building reliable data infrastructure and turning messy operational data into smart decisions 
+Software and Data Engineer building the systems that move, transform, and serve data at scale.
 
-I design ETL pipelines, build BI reporting layers, and support ERP systems for enterprise clients.
+I work across backend services and data infrastructure: designing pipelines, modernizing legacy systems, and building reliable software for enterprise clients.
 
-My work spans distributed systems, streaming pipelines, and backend infrastructure alongside core data engineering.
-
-- 🔭 **Currently working on:** Cloud-native ETL pipelines and BI reporting layers on Azure and SQL Server
-- 🌱 **Currently learning:** Apache Airflow and distributed data systems
+- 🔭 **Currently working on:** Modernizing legacy ETL systems and building scalable data pipelines
+- 🌱 **Currently learning:** Apache Airflow, Delta Lake, and distributed data processing
 - ⚙️ **Recent build:** Azure ETL pipeline with Medallion architecture, star-schema warehouse, automated data quality checks, and CI/CD via GitHub Actions
 - 📫 **Reach me:** [Portfolio](https://masonbrittain.com) · [LinkedIn](https://www.linkedin.com/in/mason-brittain-4a265a1aa/) · masonbrittain@gmail.com
 
 ---
 
 ## 🛠️ Tools & Technologies
- 
+
 **Languages**
-`Python` `TypeScript` `JavaScript` `SQL` `C#` `Java` `C++` `HTML/CSS` `DAX`
- 
-**Frameworks & Frontend**
-`React` `Next.js` `Node.js` `Tailwind CSS`
- 
-**Data Engineering & Warehousing**
-`ETL/ELT` `SSIS` `SQLAlchemy` `pandas` `Data Warehousing` `Dimensional Modeling` `SQL Server`
- 
-**Cloud & Backend**
-`Azure` `Azure SQL` `Azure Functions` `Azure Blob Storage` `Azure CLI` `REST APIs` `Supabase` `Drizzle ORM`
- 
-**BI & Reporting**
-`Power BI` `Power Query` `Crystal Reports`
- 
-**Engineering Practices**
-`Git` `GitHub Actions` `Docker` `pytest` `Vercel` `Jira` `CI/CD`
- 
-**ERP**
-`Viewpoint Vista`
- 
+`Python` `SQL` `TypeScript` `JavaScript` `C#` `Java` `C++`
+
+**Backend & APIs**
+`Node.js` `REST APIs` `Azure Functions` `Supabase` `Drizzle ORM` `SQLAlchemy`
+
+**Data Engineering**
+`Apache Spark` `ETL/ELT` `SSIS` `pandas` `Data Warehousing` `Dimensional Modeling`
+
+**Databases**
+`SQL Server` `Oracle` `PostgreSQL` `Azure SQL` `CosmosDB` `AWS Lambda` `DynamoDB` 
+
+**Cloud & DevOps**
+`Azure` `Azure Blob Storage` `Docker` `GitHub Actions` `CI/CD`
+
+**Frontend**
+`React` `Next.js` `Tailwind CSS`
+
+**Testing & Tools**
+`Git` `pytest` `Jira`
+
 **Currently Learning**
-`Apache Airflow` `Distributed Systems` `Streaming Pipelines`
+`Apache Airflow` `Delta Lake` `Distributed Systems`
  
 
 ---
